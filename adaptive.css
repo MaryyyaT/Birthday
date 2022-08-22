@@ -1,0 +1,23 @@
+@media(max-width: 880px) {
+    .container{
+        padding: 0 10px;
+    }
+    .header__btn-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .header__btn-change{
+        width: 220px;
+        height: 45px;
+        font-size: 14px;
+        margin-right: 0;
+    }
+    .header__btn-gender{
+        margin-right: 0;
+        width: 40px;
+        height: 40px;
+        background-size: 30px;
+    }
+}
